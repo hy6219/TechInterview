@@ -31,3 +31,8 @@
 
 [a. MVC 패턴](https://github.com/hy6219/TechInterview/blob/main/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/MVC%ED%8C%A8%ED%84%B4.md)<br/>
 
+
+## 07. 디자인패턴, 스프링
+
+[a. 디자인패턴, 스프링](https://github.com/hy6219/TechInterview/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4%2C%EC%8A%A4%ED%94%84%EB%A7%81/%EC%8B%B1%EA%B8%80%ED%86%A4%ED%8C%A8%ED%84%B4%2C%20%EC%8A%A4%ED%94%84%EB%A7%81.md)<br/>
+
