@@ -8,6 +8,7 @@
 [e. Annotation && Generics](https://github.com/hy6219/TechInterview/blob/main/Language/Java/%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EA%B3%BC%20%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%8A%A4.md)<br/>
 [f. 래퍼클래스, 오토박싱, 오토언박싱](https://github.com/hy6219/TechInterview/blob/main/Language/Java/Wrapper%20Class.md)<br/>
 [g. 쓰레드, 세션과 쿠키, jdbc](https://github.com/hy6219/TechInterview/blob/main/Language/Java/%EC%93%B0%EB%A0%88%EB%93%9C%2C%20%EC%84%B8%EC%85%98%EA%B3%BC%20%EC%BF%A0%ED%82%A4%2C%20jdbc.md)<br/>
+[h. 인터페이스와 추상클래스](https://github.com/hy6219/TechInterview/blob/main/Language/Java/Interface%2CAbstract.md)<br/>
 <br/>
 ## 02. 알고리즘
 [a. 정렬 알고리즘](https://github.com/hy6219/TechInterview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)<br/>
