@@ -26,4 +26,7 @@
 
 [a. 멀티 프로세스, 멀티 쓰레드](https://github.com/hy6219/TechInterview/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%5BOS%5D%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%EB%A9%80%ED%8B%B0%EC%93%B0%EB%A0%88%EB%93%9C.md)<br/>
 
+## 06. 개발 상식
+
+[a. MVC 패턴](https://github.com/hy6219/TechInterview/blob/main/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/MVC%ED%8C%A8%ED%84%B4.md)<br/>
 
