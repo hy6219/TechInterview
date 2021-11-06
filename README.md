@@ -15,3 +15,8 @@
 
 [a. GET 과 POST](https://github.com/hy6219/TechInterview/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/GET%EA%B3%BC%20POST.md)<br/>
 [b. 네트워크 개념 정리](https://github.com/hy6219/TechInterview/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B3%B5%EB%B6%80%20Plus.md)<br/>
+
+## 04. 데이터베이스
+
+[a. 데이터베이스](https://github.com/hy6219/TechInterview/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)<br/>
+
