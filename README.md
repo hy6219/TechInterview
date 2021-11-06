@@ -10,3 +10,7 @@
 <br/>
 ## 02. 알고리즘
 [a. 정렬 알고리즘](https://github.com/hy6219/TechInterview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%A0%95%EB%A0%AC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)<br/>
+
+## 03. 네트워크
+
+[a. GET 과 POST](https://github.com/hy6219/TechInterview/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/GET%EA%B3%BC%20POST.md)<br/>
